@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB_ACT-1.2</string>
+    <string name="login_activity_title">Login Activity</string>
+    <string name="login_instruction">Please enter your username and password below to login:</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="invalid_credentials">Invalid credentials. Please try again.</string>
+    <string name="fill_fields">Please fill in all fields</string>
+    <string name="hint_username">Enter your username:</string>
+    <string name="hint_password">Enter your password:</string>
+    <string name="btn_login">LOGIN</string>
+</resources>
